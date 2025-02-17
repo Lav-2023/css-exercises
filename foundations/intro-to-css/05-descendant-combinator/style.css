@@ -1,0 +1,6 @@
+div p {
+    color: hsl(0, 100%, 50%);
+    background-color: #ffff00;
+    font-size: 20px;
+    text-align: center;
+}
